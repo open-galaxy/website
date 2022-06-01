@@ -23,7 +23,6 @@
 - [] Memory Monitoring
 - [] Execution Monitoring
 
-
 ### Control Plane
 - [] Resource allocation
 
