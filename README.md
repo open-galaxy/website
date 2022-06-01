@@ -1,3 +1,3 @@
-# open-cloud.js
+# Galaxy
 
 ## [RFC](./RFC.md)

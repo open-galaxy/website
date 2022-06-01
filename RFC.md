@@ -1,4 +1,5 @@
-# The Javascript-based Open-cloud RFC
+# Galaxy
+The Javascript-based Open-cloud RFC
 
 ## Features
 - [] Web-interoperable Runtime
